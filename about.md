@@ -8,4 +8,6 @@ permalink: /about/
 
 Bạn có thể tìm thấy source code của dự án ở đây: [Github](https://github.com/lelouvincx/ubunchuu-truong-us.github.io)
 
+Theo dõi chúng mình: [Facebook](https://www.facebook.com/ubunchuu.club.hcmus)
+
 *Copyright © 2022 by lelouvincx x thangbuiq*

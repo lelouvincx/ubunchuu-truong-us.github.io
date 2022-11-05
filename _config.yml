@@ -25,7 +25,7 @@ github_username: lelouvincx/ubunchuu-truong-us.github.io
 markdown: kramdown
 theme: minima
 skin:
-  solarized
+  solarized-dark
 plugins:
   - jekyll-feed
 

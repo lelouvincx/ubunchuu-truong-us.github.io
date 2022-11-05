@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Đây là trang lưu những documents mà chúng mình - [Ubunchuu Trường Ú]() tổng hợp. Với mong muốn truyền cảm hứng cho các bạn sinh viên sử dụng linux - hệ điều hành tối ưu cho dev, chúng mình mang đến những bài viết, tutorials chất lượng về cách config terminal linux, tối ưu hệ thống, đem lại trải nghiệm code tuyệt vời nhất.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Bạn có thể tìm thấy source code của dự án: [Github](https://github.com/lelouvincx/ubunchuu-truong-us.github.io)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+*Copyright © 2022 by lelouvincx x thangbuiq*

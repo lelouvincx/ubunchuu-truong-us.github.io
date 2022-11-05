@@ -18,8 +18,8 @@ email: https://tinyurl.com/yvs96rn2
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 url: "https://lelouvincx.github.io"
-facebook: ubunchuu.club.hcmus
-github_username:  lelouvincx
+facebook_username: ubunchuu.club.hcmus
+github_username: lelouvincx/ubunchuu-truong-us.github.io
 
 # Build settings
 markdown: kramdown
